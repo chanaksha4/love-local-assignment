@@ -24,3 +24,4 @@ print(count_digit_one(n1))  # Output: 6
 n2 = 0
 print(count_digit_one(n2))  # Output: 0
 
+
