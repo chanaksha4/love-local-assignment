@@ -25,7 +25,7 @@ def majority_elements(nums):
             count1 += 1
         elif num == candidate2:
             count2 += 1
-
+            
     result = []
     if count1 > len(nums) // 3:
         result.append(candidate1)
